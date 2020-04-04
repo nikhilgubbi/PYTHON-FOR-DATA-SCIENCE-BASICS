@@ -9,6 +9,8 @@ If your laptop does not support Anaconda you can install miniconda from here (ht
 
 You can also use Google Colab
 
+Refer the document for knowing more about python(https://docs.python.org/3.9/) 
+
 Required packages are
 
 Numpy- Refer the document for knowing about numpy (https://docs.scipy.org/doc/numpy/reference/)
