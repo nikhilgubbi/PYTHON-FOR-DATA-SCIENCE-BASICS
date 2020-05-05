@@ -1,4 +1,4 @@
-# MACHINE-LEARNING-BOOTCAMP-BASICS
+# PYTHON FOR DATASCIENCE BASICS
 This contains all the basics of Python for Data Science.
 
 Install Python IDLE from here (https://www.python.org/downloads/)
